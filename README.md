@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishadcoder
 - 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently learning NextJs And Mern Stack development
 - 💞️ I’m looking to collaborate on Production Grade Projects
 - 📫 How to reach me : email : nishadkhalyani5@gmail.com
 - 😄 Pronouns:Nishad Khalyani
